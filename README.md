@@ -25,11 +25,11 @@
 .
 ├── 7 folds current model                                                                               <-- First folder with models
 │   ├── You should install models
-│       in this catalog from 
+│       into this catalog from 
 │       https://drive.google.com/drive/folders/1REAS6CUAllJ7HyDDP3Xf9sprExrJUkhI?usp=sharing                <-- Link for download models
 ├── mean acc and f1                                                                                     <-- Second folder with models
 │   ├── You should install models
-│   │    in this catalog from
+│   │    into this catalog from
 │   │    https://drive.google.com/drive/folders/1zvM4BXmOvuhwQM6dEcIieLdcZ4UnOx-n?usp=sharing               <-- Link for download models
 │   ├── src                                                                                                 <-- Main functions
 │   │   ├── __init__.py                                                                                         <-- Initialization
@@ -40,7 +40,7 @@
 │   └── Avia_base.ipynb                                                                                     <-- Training file
 ├── model full                                                                                          <-- Third folder with models
 │   ├── You should install models
-│   │   in this catalog from
+│   │   into this catalog from
 │   │   https://drive.google.com/drive/folders/1nShNy0YlmQNzUc9XjBCmipqAPkW_Wtma?usp=sharing                <-- Link for download models
 │   ├── src                                                                                                 <-- Main functions
 │   │   ├── __init__.py                                                                                         <-- Initialization
