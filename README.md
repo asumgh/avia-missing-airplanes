@@ -1,5 +1,5 @@
 # Missed Airplanes (https://cups.mail.ru/)
-
+![](images/avia_image.jpg)
 ## Table of contents
 
 <!--ts-->
