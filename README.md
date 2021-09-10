@@ -56,7 +56,7 @@
 ```
 ## 3. Task 
 In this competition we are searching missed airplanes in satellite images. It is classification task.
-Metric: ROC-AUC score, 1 + 0.001 addited data
+Metric: ROC-AUC score, 1(main test, 1000 images) + 0.001(addited data, 100000 images)
 
 ## 4. Data description
 Training:
